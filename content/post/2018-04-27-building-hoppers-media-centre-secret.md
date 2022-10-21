@@ -1,9 +1,8 @@
 ---
-title: Die Fußpflege
-date: 2017-04-27
-hero: "/images/hero-3.jpg"
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
-  apps in the U.S, along with Uber, Lyft.
+title: Mentalfeld-Technik
+date: 
+hero: "/images/mental.jpg"
+excerpt: Eine ausgewogene Körper-Geist-Balance ist äußerst wichtig für das Wohlbefinden.
 secret: true
 timeToRead: 8
 authors: []
