@@ -1,9 +1,9 @@
 ---
-timeToRead: 0
+timeToRead: 10
 authors: []
 title: Kinesiologie
 excerpt: ''
-date: 
+date: 2022-10-21T15:00:00+02:00
 hero: "/images/img_20220119_103119.jpg"
 
 ---
