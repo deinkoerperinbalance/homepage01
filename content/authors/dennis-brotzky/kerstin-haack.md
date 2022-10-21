@@ -8,6 +8,5 @@ bio: "Hallo,\nich bin Kerstin Haack, als „Gesundheitscoach“ und Fußpflegeri
 avatar: ''
 social: []
 featured: true
-draft: true
 
 ---
