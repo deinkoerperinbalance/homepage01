@@ -12,9 +12,6 @@ Was Fußpflege betrifft, wird den Füßen oft wenig Aufmerksamkeit geschenkt. Di
 
 Die Pflege unserer Füße sollte, so selbstverständlich sein, wie Pflege unserer Körpers und unseres Gesichts, somit verlieren wir nicht die Freude an den Bewegung.
 
-  
- 
-
 In meiner Praxis erfahren Sie und ihre Füße Behandlung, Pflege und Wellness.
 
   
