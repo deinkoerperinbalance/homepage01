@@ -5,7 +5,8 @@ hero: "/images/mental.jpg"
 excerpt: Eine ausgewogene Körper-Geist-Balance ist äußerst wichtig für das Wohlbefinden.
 secret: true
 timeToRead: 8
-authors: []
+authors:
+- kerstin haack
 
 ---
 Die Mentalfeld-Technik hat Ihren Ursprung in der energetischen Psychotherapie des Psychoanalytikers Roger Callahan. Dr. Klinghardt entwickelte mit diese Technik weiter und kombinierte verschiedene Heilmethoden. Dadurch ist eine sehreffiziente Methode zur Auflösung von psychischen und körperlichen Beschwerden entstanden. Durch beklopfen von Akupunkturpunkten mit gleichzeitigem „Summen“ durch den Anwender, wird die Eigenregulation des Körpers geführt. Die Ordnung in den Körpersystemen wie, Immun-,Hormon und Nervensystem wird verbessert und Denk- und Gefühlsstrukturen werden „ neu organisiert“. Ich baue durch achtsame Begleitung des Klienten ein heilendes Feld auf, indem vieles gelöst werden darf. Die achtsame Kommunikation ist ein großer Vorteil, da nur mit dem gearbeitet wird, was der Kunde momentan empfindet. Effektive Selbstbehandlung für zu Hause wird durch diese Methode erlernt. Kunden haben von positiven Erfahrungen bei folgenden Symptomen berichtet: • Angstzuständen • Phobien • (Schulischen-) Stresssituationen • Atembeschwerden • Einschlafstörungen • Allergien.
