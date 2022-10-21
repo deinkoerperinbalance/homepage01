@@ -5,7 +5,7 @@ bio: "Hallo,\nich bin Kerstin Haack, als „Gesundheitscoach“ und Fußpflegeri
   seit einigen Jahren aus. Durch ständige Fortbildungen, Schulung, Seminare erweitere
   ich mein Wissen ständig.\nMeine langjährige Erfahrung möchte ich gerne weitergeben.
   \nDaher würde ich mich freuen, Sie in meiner Praxis begrüßen zu dürfen….\n\n"
-avatar: "/images/dennis-brotzky.jpg"
+avatar: "/images/img_5657.PNG"
 featured: true
 social:
 - title: unsplash
