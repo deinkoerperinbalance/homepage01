@@ -1,7 +1,7 @@
 ---
 title: Die Fußpflege
 date: 
-hero: "/images/hero-3.jpg"
+hero: "/images/img_20220119_103119.jpg"
 excerpt: Ihre Füße geben Ihnen Bodenhaftung, Standfestigkeit und Ihre Füße begleiten
   Sie auf Ihrem Lebensweg
 timeToRead: 8
