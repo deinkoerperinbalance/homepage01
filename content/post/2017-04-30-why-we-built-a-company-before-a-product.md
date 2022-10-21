@@ -4,8 +4,7 @@ date:
 hero: "/images/img_20220119_103119.jpg"
 excerpt: ''
 timeToRead: 3
-authors:
-- Thiago Costa
+authors: []
 
 ---
 Im Ernährungscoaching/Ernährungsberatung begleite ich dich dabei, deine Ernährung zielgerichtet umzustellen. Coaching geht immer davon aus, dass du die Lösung für dein aktuelles Problem „in dir trägst“. Das ist ganz natürlich, denn du bist tatsächlich die einzige Person, die absolut zu 100% erfassen kann, wie deine Situation und deine Möglichkeiten im Alltag aussehen. Das bedeutet im Umkehrschluss, dass es im Ernährungscoaching keinen vorgefertigten Ernährungsplan gibt, den sich irgendjemand für dich ausgedacht hat. Selbstverständlich gibst du deinem Coach einen bestmöglichen Einblick in deine Lebens- und Ernährungswelt.
