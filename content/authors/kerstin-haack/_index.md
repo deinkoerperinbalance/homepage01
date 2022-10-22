@@ -1,5 +1,5 @@
 ---
-title: _index
+title: Kerstin Haack
 bio: Hallo, ich bin Kerstin Haack, als „Gesundheitscoach“ und Fußpflegerin im Gesundheitshaus
   in Giengen und Gerstetten angestellt. Ich bin 43 Jahre alt und übe diesen Beruf
   seit einigen Jahren aus. Durch ständige Fortbildungen, Schulung, Seminare erweitere
