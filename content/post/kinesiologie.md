@@ -1,9 +1,10 @@
 ---
 timeToRead: 10
-authors: []
+authors:
+- Kerstin Haack
 title: Kinesiologie
 excerpt: ''
-date: 2022-10-21T15:00:00+02:00
+date: 2022-10-21T15:00:00.000+02:00
 hero: "/images/img_20220119_103119.jpg"
 
 ---
