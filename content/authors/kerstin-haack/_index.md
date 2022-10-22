@@ -6,9 +6,7 @@ bio: Hallo, ich bin Kerstin Haack, als „Gesundheitscoach“ und Fußpflegerin 
   ich mein Wissen ständig. Meine langjährige Erfahrung möchte ich gerne weitergeben.
   Daher würde ich mich freuen, Sie in meiner Praxis begrüßen zu dürfen….
 avatar: "/images/img_5657.PNG"
-social:
-- title: Telegram
-  url: https://t.me/Kloinerle
+social: []
 featured: true
 
 ---
