@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/engergieausgleich-preise.md
 - content/post/kinesiologie.md
