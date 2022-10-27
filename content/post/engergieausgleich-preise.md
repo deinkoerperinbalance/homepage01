@@ -5,7 +5,6 @@ title: Engergieausgleich/Preise
 excerpt: ''
 date: 
 hero: ''
-draft: true
 
 ---
 Fußpflege:                                                                                                     32,00 €
@@ -28,10 +27,8 @@ Hausbesuche mache ich gerne nach Vereinbarung
 
 Fußreflexmassage: 45 min.                                                                             40,00 €
 
-                              3x 45 min. (im Paket)                                                      110,00 € 
-
-Ernährungscoaching/Mentalfeldtechnik/kinesiologische Austestung 60€/Stunde  
-Paket: 6 x 1 h Beratung + Einkaufen 300 €
+Ernährungscoaching/Mentalfeldtechnik/kinesiologische Austestung             60€/Std.  
+Paket: 5 x 1 h Beratung + Einkaufen                                                                 300 €
 
 Gerne können wir individuelle Pläne erstellen… somit wird auch der Preis individuell…
 
