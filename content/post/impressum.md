@@ -5,7 +5,6 @@ title: Impressum
 excerpt: ''
 date: 
 hero: ''
-draft: true
 
 ---
 Kerstin Haack  
