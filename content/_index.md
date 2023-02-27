@@ -8,7 +8,7 @@ seo:
 ---
 Hallo,
 
-ich bin Kerstin Haack. Ich bin 43 Jahre alt und übe den Beruf als Fußpflegerin und "Gesundheitsheitscoach". Durch ständige Fortbildungen, Schulung, Seminare erweitere ich mein Wissen ständig.
+ich bin Kerstin Haack. Ich bin 43 Jahre alt und übe den Beruf als Fußpflegerin und "Gesundheitsheitscoach" aus. Durch ständige Fortbildungen, Schulung, Seminare erweitere ich mein Wissen ständig.
 
 Meine langjährige Erfahrung möchte ich gerne weitergeben.
 
