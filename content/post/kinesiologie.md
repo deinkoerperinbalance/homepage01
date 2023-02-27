@@ -8,7 +8,7 @@ date: 2022-10-21T15:00:00.000+02:00
 hero: "/images/img_20220119_103119.jpg"
 
 ---
-In einer kinesiologischen Sitzung wird über den Muskeltest ein Dialog mit dem Unterbewussten des Klienten geführt. Dabei werden ursprüngliche traumatische Ereignisse, die verdrängt waren, ans Licht gebracht. Durch das Wiedererinnern können sich die damit verbundenen aufgestauten Gefühle des Klienten entladen, und der Ursprungskonflikt kann dauerhaft „entkoppelt“ werden.
+In einer kinesiologischen Sitzung wird über den Muskeltest ein Dialog mit dem Unterbewussten des Klienten geführt. Dabei werden ursprüngliche traumatische Ereignisse, die verdrängt waren, ans Licht gebracht. Durch das Wiedererinnern können sich die damit verbundenen aufgestauten Gefühle des Klienten entladen, und der Ursprungskonflikt kann dauerhaft „entkoppelt“ werden. 
 
 Kernstück ist der kinesiologische Muskeltest. Er dient zum Auffinden auf energetischer Ebene von Ungleichgewichten und Dysfunktionen im körperlichen und emotionalen Bereich, indem damit Emotionen, Substanzen, Informationen, Therapien usw. für jeden Menschen individuell ausgetestet werden. Der Muskeltest dient daher als „Biofeedback-System“.
 
@@ -17,7 +17,7 @@ Der Grundgedanke des Muskeltests ist es, dass ein Muskel auf Stress (in Form ein
 Die Methode umfasst:
 
 Diese Art der Kinesiologie ist ideal bei körperlichen Beschwerden, die bereits schulmedizinisch untersucht wurden oder bei immer wieder auftretenden Problemen.  
- Bei jedem traumatischen Ereignis entstehen in unserem Unterbewusstsein einschränkende Glaubenssätze, die lebenslang gespeichert werden. Sätze wie „Ich bin nicht liebenswert“ oder „Ich bin schwach“ beeinflussen unser Verhalten im täglichen Leben. Je mehr einschränkende Glaubenssätze durch unser Unterbewusstsein wirken, desto mehr sucht der Körper einen Ausweg in Form von chronischen Beschwerden und Schmerzzuständen aller Art.
+Bei jedem traumatischen Ereignis entstehen in unserem Unterbewusstsein einschränkende Glaubenssätze, die lebenslang gespeichert werden. Sätze wie „Ich bin nicht liebenswert“ oder „Ich bin schwach“ beeinflussen unser Verhalten im täglichen Leben. Je mehr einschränkende Glaubenssätze durch unser Unterbewusstsein wirken, desto mehr sucht der Körper einen Ausweg in Form von chronischen Beschwerden und Schmerzzuständen aller Art.
 
 Ziel einer jeden Sitzung ist es, die krankmachenden Glaubenssätze durch neue, freimachende zu ersetzen, die eine dauerhafte Besserung ohne Symptomverschiebung ermöglichen.
 
