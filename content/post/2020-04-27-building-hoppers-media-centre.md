@@ -5,8 +5,7 @@ hero: "/images/kinderfusse-mit-gesicht.jpg"
 excerpt: Ihre Füße geben Ihnen Bodenhaftung, Standfestigkeit und Ihre Füße begleiten
   Sie auf Ihrem Lebensweg
 timeToRead: 8
-authors:
-- Kerstin Haack
+authors: []
 
 ---
 Was Fußpflege betrifft, wird den Füßen oft wenig Aufmerksamkeit geschenkt. Dies ändert sich, wenn Beschwerden auftreten. Druckstellen, Hühneraugen, eingewachsene Nägel sowie Hornhaut. Die Haut an den Füßen ist im Gegensatz zu den Händen sehr trocken, da sie keine Talgdrüsen besitzt, die normalerweise für eine dünne Fettschicht sorgen.
