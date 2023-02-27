@@ -4,8 +4,7 @@ date: 2022-10-22T00:00:00.000+02:00
 hero: "/images/kinderfusse-mit-gesicht.jpg"
 excerpt: ''
 timeToRead: 8
-authors:
-- Kerstin Haack
+authors: []
 
 ---
 Bei meiner beliebten Fußreflexmassage bekommen deine Füße die Behandlung, die sie verdienen. Es werden die Fußpunkte durch Druck und Entlastung massiert.
