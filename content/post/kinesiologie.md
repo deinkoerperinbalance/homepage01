@@ -1,7 +1,6 @@
 ---
 timeToRead: 10
-authors:
-- Kerstin Haack
+authors: []
 title: Kinesiologie
 excerpt: ''
 date: 
