@@ -4,7 +4,7 @@ authors:
 - Kerstin Haack
 title: Kinesiologie
 excerpt: ''
-date: 2022-10-21T15:00:00.000+02:00
+date: 
 hero: "/images/kinesiologie.jpg"
 
 ---
