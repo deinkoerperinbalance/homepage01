@@ -1,7 +1,7 @@
 ---
 title: Ernährungscoaching
 date: 2022-10-22T00:00:00.000+02:00
-hero: "/images/img_20220119_103119.jpg"
+hero: "/images/lebensmittelpyramide_mit_text.png"
 excerpt: ''
 timeToRead: 3
 authors:
