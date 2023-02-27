@@ -4,10 +4,10 @@ authors: []
 title: Engergieausgleich/Preise
 excerpt: ''
 date: 
-hero: ''
+hero: "/images/bild-fusse.jpg"
 
 ---
-Fußpflege:                                                                                                     32,00 €
+Fußpflege:                                                                                                      37,00 €
 
 * eine sorgfältige Anamnese
 * Desinfektion
@@ -23,9 +23,9 @@ Fußbad mit Fußpeeling 8,00 :                                                  
 Wünschen Sie eine Behandlung in Ihrem eigenem Heim, auch das ist kein Problem.  
 Hausbesuche mache ich gerne nach Vereinbarung
 
-\+ 5,00-10 € je nach Entfernung
+\+ Fahrkosten je nach Entfernung
 
-Fußreflexmassage: 45 min.                                                                             40,00 €
+Fußreflexmassage: 45 min.                                                                             45,00 €
 
 Ernährungscoaching/Mentalfeldtechnik/kinesiologische Austestung             60€/Std.  
 Paket: 5 x 1 h Beratung + Einkaufen                                                                 300 €
