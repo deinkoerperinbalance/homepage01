@@ -13,18 +13,18 @@ Was Fußpflege betrifft, wird den Füßen oft wenig Aufmerksamkeit geschenkt. Di
 
 Die Pflege unserer Füße sollte, so selbstverständlich sein, wie Pflege unserer Körpers und unseres Gesichts, somit verlieren wir nicht die Freude an den Bewegung.
 
-In meiner Praxis erfahren Sie und ihre Füße Behandlung, Pflege und Wellness.
+Beimir erfahren Sie und ihre Füße Behandlung, Pflege und Wellness.
 
-  
- **Meine Behandlung umfasst:**  
- - eine sorgfältige Anamnese  
- - Desinfektion  
- - Kürzen und Formen und Glätten der Nägel  
- - Reinigung der Nagelränder  
- - das Entfernen von Hornhaut, Druckstellen und Hühneraugen  
- - anschließend erhalten Sie eine   
-   
- Hausbesuche (mobile Fußpflege) für eine entspannte Behandlung im eigenen Heim biete ich selbstverständlich auch an.
+**Meine Behandlung umfasst:**
+
+* eine sorgfältige Anamnese
+* Desinfektion
+* Kürzen und Formen und Glätten der Nägel
+* Reinigung der Nagelränder
+* das Entfernen von Hornhaut, Druckstellen und Hühneraugen
+* anschließend erhalten Sie eine
+
+Hausbesuche (mobile Fußpflege) für eine entspannte Behandlung im eigenen Heim biete ich selbstverständlich auch an.
 
 Vor der Behandlungsaufnahme findet ein Anamnesegespräch statt, um Sie und Ihre Füße kennen zu lernen.
 
