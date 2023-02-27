@@ -13,5 +13,5 @@ Die Mentalfeld-Technik hat Ihren Ursprung in der energetischen Psychotherapie de
 
 Durch die Mentalfeld-Techniken werden Therapie-und Selbsthilfemethode geboten, die zur Balance des autonomen Nervensystems führt. MFT findet Anwendung in der Behandlung von chronischen und akuten Stress- und Belastungszuständen, dabei ist es nicht von Bedeutung, ob die „Ursache“ im seelischen oder körperlichen Bereich liegt. Besonders aber in der Psycho-Traumatologie, in der Aufarbeitung von Ängsten, Phobien, Zwängen, Prüfungsangst, Hyperaktivität, bei chronischen Schmerzen, Allergien…und und und…
 
-\**Zielgruppe:  
-\**· Alle Menschen, die ein „Werkzeug zur Hilfe und Selbsthilfe“ in die Hände bekommen möchten
+\*_Zielgruppe:  
+\*_· Alle Menschen, die ein „Werkzeug zur Hilfe und Selbsthilfe“ in die Hände bekommen möchten
