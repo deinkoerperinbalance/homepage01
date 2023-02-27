@@ -5,7 +5,7 @@ authors:
 title: Kinesiologie
 excerpt: ''
 date: 2022-10-21T15:00:00.000+02:00
-hero: "/images/img_20220119_103119.jpg"
+hero: "/images/kinesiologie.jpg"
 
 ---
 In einer kinesiologischen Sitzung wird über den Muskeltest ein Dialog mit dem Unterbewussten des Klienten geführt. Dabei werden ursprüngliche traumatische Ereignisse, die verdrängt waren, ans Licht gebracht. Durch das Wiedererinnern können sich die damit verbundenen aufgestauten Gefühle des Klienten entladen, und der Ursprungskonflikt kann dauerhaft „entkoppelt“ werden. 
